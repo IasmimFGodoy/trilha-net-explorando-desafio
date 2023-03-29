@@ -19,3 +19,12 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+## Modificações solicitadas pela tarefa:
+
+- [x] Verificação da capacidade da suíte antes de cadastrar mais hóspedes.
+- [x] Implementar a funçao para obter a quantidade de hóspedes.
+- [x] Implementar a função para calcular o valor da diária, se passasse de 9 dias o cliente teria um desconto de 10%.
+
+## Status
+> Concluído
